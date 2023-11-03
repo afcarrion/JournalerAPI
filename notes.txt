@@ -1,1 +1,1 @@
-It is my first project in kotlin
+It is my first project in kotlin. Master branch.
